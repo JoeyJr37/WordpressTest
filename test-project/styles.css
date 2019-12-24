@@ -1,0 +1,32 @@
+.site-title {
+    background: grey;
+    text-align: center;
+    padding: 1em;
+    font-size: 37px;
+    margin: 0;
+}
+.site-title a {
+    text-decoration: none;
+    color: white;
+}
+.site-title:hover {
+    cursor: pointer;
+}
+.site-sub-title {
+    color: #545151;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+}
+.site-main {
+    display: flex;
+    
+}
+.side-bar {
+    
+    font-size: 10px;
+}
+.main-text {
+    
+    padding: 0px 10px 0px 10px;
+}
